@@ -7,4 +7,6 @@ https://www.notion.so/mmt42cursus/NetPractice-Subpage-5-ee656739f4224e1daaf2d381
 
 If you wanna calculate the bits you should this site -> https://www.rapidtables.com/convert/number/decimal-to-binary.html
 
-And also if you wanna draw the page you shoult kleki.
+And also if you wanna draw the page you should kleki.
+
+<img width="1440" alt="Ekran Resmi 2023-01-15 15 41 21" src="https://user-images.githubusercontent.com/73845925/212541185-1c94823e-e471-45d8-8e9e-11f48c1b3e44.png">
